@@ -1,7 +1,8 @@
 import React from "react";
+import { motion } from "framer-motion";
 
 const contact = () => {
-  return <div>contact</div>;
+  return <motion.div>contact</motion.div>;
 };
 
 export default contact;
