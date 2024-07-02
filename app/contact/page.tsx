@@ -51,7 +51,7 @@ const contact = () => {
               action=""
               className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl"
             >
-              <h3 className="text-4xl text-accent">Le't work together</h3>
+              <h3 className="text-4xl text-accent">Le&apos;t work together</h3>
               <p className="text-white/60">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Perspiciatis, ipsam. Nostrum quod provident facilis, nulla omnis
